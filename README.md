@@ -1,3 +1,10 @@
+## What this Repo is for ?
+It contains source code for tutorial published at
+https://medium.com/@mansha99/nextjs-using-swr-based-data-fetchingwith-client-side-components-e7eb7837eefb
+### What it demonstrates?
+Using SWR with NextJs to perform On Demand Revalidation and use of HTTP-Cache for better user experience.  
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
